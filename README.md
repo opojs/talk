@@ -1,2 +1,5 @@
 # talk
-Gitter chat room for the community
+
+[![Gitter chat](https://badges.gitter.im/opoJS/talk.png)](https://gitter.im/opoJS/talk)
+
+Join the opoJS talk on gitter!
