@@ -1,7 +1,7 @@
 # talk
 
-[![Join the chat at https://gitter.im/opojs/talk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/opojs/talk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+There's a Slack organisation where the community gets together. Reach out on Twitter or js@opo.network to get invited to the organisation.
 
-[![Gitter chat](https://badges.gitter.im/opoJS/talk.png)](https://gitter.im/opoJS/talk)
+We'll soon be adding the ability to auto invite.
 
-Join the opoJS talk on gitter!
+For reference, the organisation can be found at https://oponetwork.slack.com.
